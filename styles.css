@@ -1,0 +1,143 @@
+header {
+    background-color: #ffffff71;
+    color: #000000;
+    text-align: center;
+    padding: 10px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #c1d7ff;
+    color: #000000;
+    line-height: 1.6;
+}
+
+fieldset {
+    display: inline-block;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+
+h2 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1rem;
+}
+
+#sobre-mi {
+    text-align: center;
+    padding: 20px;
+    background-color: #c1d7ff;
+    margin-bottom: 20px;
+}
+
+#sobre-mi h2 {
+    font-size: 2rem;
+}
+
+#sobre-mi img {
+    max-width: 150px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.lista1,
+.lista2 {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.lista1 h2,
+.lista2 h2 {
+    text-align: auto;
+    font-size: 2rem;
+}
+
+.tabla {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tabla h2 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.tabla table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.tabla th,
+.tabla td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.tabla th {
+    background-color: #3453db;
+    color: white;
+}
+
+.tabla td {
+    background-color: #f4f4f4;
+}
+
+.formulario {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.formulario h2 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.formulario input,
+.formulario button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
+
+.formulario button {
+    background-color: #3453db;
+    color: white;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #ffffff71;
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+    margin: 50px;
+}
